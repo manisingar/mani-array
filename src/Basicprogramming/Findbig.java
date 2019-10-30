@@ -16,7 +16,7 @@ public class Findbig {
 		{
 			a[i]=temp2;
 		}
-		
+		i++;
 
 	}
 
